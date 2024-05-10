@@ -1,0 +1,214 @@
+html {
+	background: #967259;
+	}
+	
+	p{
+		color:#fff;
+		
+	font-family: 'MV Boli', cursive;
+	}
+		h1{
+		color:#fff;
+		
+	font-family: 'MV Boli', cursive;
+	}
+		h2{
+		color:#fff;
+		font-size: 40px;
+		
+	font-family: 'MV Boli', cursive;
+	}
+		ul{
+		color:#fff;
+		
+	font-family: 'MV Boli', cursive;
+	}
+		ol{
+		color:#fff;
+		
+	font-family: 'MV Boli', cursive;
+	}
+		h3{
+		color:#fff;
+		font-size: 20px;
+		
+	font-family: 'MV Boli', cursive;
+	}
+/*HEADER WITH NAVIGATION*/
+
+header {
+	background-color: #38220f;
+	color: #fff;
+	text-align: center;
+	padding: 0px;
+}
+nav ul{
+	list-style: none;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	
+}
+nav li{
+	margin: 0 10px;
+}
+nav a{
+	text-decoration: none;
+	color: #fff;
+	padding: 10px;
+	font-size: 20px;
+}
+h2 {
+	color: #fff;
+	text-align: center;
+	padding: 0px;
+}
+p {
+	color: #fff;
+	text-align: center;
+	padding: 0px;
+}
+footer {
+	background-color: #38220f;
+	color: #fff;
+	text-align: center;
+	padding: 0px;
+}
+h3 {
+	color: #fff;
+	text-align: center;
+	padding: 0px;
+	font-family: 'MV Boli', cursive;
+}
+p-1 {
+	color: #fff;
+	text-align: left;
+	padding: 0px;
+	font-family: 'MV Boli', cursive;
+}
+body {
+	text-align: center;
+}
+p-2 {
+	color: #fff;
+	text-align: left;
+	padding: 0px;
+	font-family: 'MV Boli', cursive;
+}
+h4 {
+	color: #fff;
+	text-align: center;
+	padding: 0px;
+	font-family: 'MV Boli', cursive;
+}
+
+
+/*Flexbox*/
+.flex-container {
+	display: flex;
+	justify-content: space-between;
+	background-color: #38220f;
+	padding: 20px;
+}
+.flex-item {
+	flex: 1;
+	padding: 20px;
+	border: 1px solid #fff;
+	box-sizing: border-box;
+}
+.flex-item h2 {
+color: #fff; 
+}
+
+.flex-item p {
+	color: #fff;
+}
+.flex-container-2 {
+	display: flex;
+	justify-content: space-between;
+	background-color: #0000;
+	padding: 20px;
+}
+.flex-container-4 {
+	display: flex;
+	justify-content: center;
+	background-color: #0000;
+	padding: 20px;
+}
+.flex-item h2 {
+color: #fff; 
+}
+.flex-container-5 {
+	display: flex;
+	justify-content: space-between;
+	background-color: #38220f;
+	padding: 20px;
+}
+.flex-container-6 {
+	display: flex;
+	justify-content: space-between;
+	background-color: #38220f;
+	padding: 20px;
+}
+.flex-item h2 {
+color: #fff; 
+}
+.flex-container-7 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #0000;
+	padding: 20px;
+}
+.flex-container-8 {
+	display: flex;
+	justify-content: space-between;
+	background-color: #38220f;
+	padding: 20px;
+}
+.flex-container-9 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #0000;
+	padding: 20px;
+}
+.flex-container-10 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #0000;
+	padding: 20px;
+}
+.flex-container-11 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #0000;
+	padding: 20px;
+}
+.flex-container-12 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #0000;
+	padding: 20px;
+}
+/*WEBSITE FOOTER*/
+
+<footer>
+	<div class="footer-consent">
+		<div class="footer-info">
+			<h3>Contact Information</h3>
+			<p>Email: 17sadaramola@stj.kent.sch.uk</p>
+			<p>Phone: 07438284076</p>
+			<p>Address: 123 STreet, City</p>
+		</div>
+		<div class="social-media">
+			<h3>Connect with Me</h3>
+			<a href="#" class="social-icon"><img src="instagram.jpeg" alt="Instagram"></a>
+			<a href="#" class="social-icon"><img src="twitter.png" alt="Twitter"></a>
+			<a href="#" class="social-icon"><img src="linkedin.png" alt="LinkedIn"></a>
+		</div>
+	</div>
+</footer>
